@@ -4,7 +4,7 @@ I'm Tejas Saraf, a Graduate Student at Illinois Institute of Technology.
 
 Experienced Software Developer with expertise in providing full software development life cycle solutions for applications using C++, Core Java, Java EE, Web services, Object Oriented Programming as core technologies. Developed user interfaces & components using Angular, Typescript, Javascript, JQuery, HTML5, CSS3, SCSS and some experience with React. Strong engineering professional as a Software Developer at JIO Platforms Limited. 
 <p align=center>
-<img height="25" src="https://komarev.com/ghpvc/?username=ruch798&color=brightgreen" />
+<img height="25" src="https://komarev.com/ghpvc/?username=TejasSaraf&color=brightgreen" />
 <a href="https://github.com/TejasSaraf">
 </a>
 </p>
