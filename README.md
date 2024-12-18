@@ -27,6 +27,11 @@ Experienced Software Developer with expertise in providing full software develop
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejassaraf&show_icons=true&locale=en" alt="tejassaraf" /></p>
 
+## 
+[![Tejas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TejasSaraf&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
 
 
 
