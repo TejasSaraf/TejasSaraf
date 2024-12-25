@@ -6,6 +6,8 @@ Experienced Software Developer with expertise in providing full software develop
 <img height="25" src="https://komarev.com/ghpvc/?username=TejasSaraf&color=brightgreen" />
 <a href="https://github.com/TejasSaraf">
 </a>
+<br>
+  <img src="https://github.com/TejasSaraf/TejasSaraf/blob/main/DALL·E 2024-12-24 21.27.42 - A vibrant illustration of a young professional's dynamic life in Chicago, balancing academics, technology, and creativity. The scene includes a modern.webp" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
