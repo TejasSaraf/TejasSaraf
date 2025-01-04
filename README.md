@@ -11,7 +11,7 @@
 - Software Enginner
 - Ex SDE @Jio Platforms Limited
 - Master's at Illinois Institute of Technology
-- Bachelor's degree in Computer Science
+- Bachelor's degree in Information Technology
 - Passionate about Open Source Software Development
 
 <div align="left">
