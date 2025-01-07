@@ -23,9 +23,10 @@
 ## My GitHub Stats
 
 <div align="left">
+  
+![](https://github-readme-stats.vercel.app/api?username=TejasSaraf&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TejasSaraf&theme=dark&hide_border=true&bg_color=0d1117)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=TejasSaraf&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TejasSaraf&theme=dark&hide_border=false)<br/>
 
 
   
