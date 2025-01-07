@@ -23,10 +23,10 @@
 ## My GitHub Stats
 
 <div align="left">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TejasSaraf&theme=dark)](https://git.io/streak-stats)
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasSaraf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
+
+![](https://github-readme-stats.vercel.app/api?username=TejasSaraf&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TejasSaraf&theme=dark&hide_border=false)<br/>
+
 
   
 </div>
