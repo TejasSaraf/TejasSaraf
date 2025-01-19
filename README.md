@@ -2,7 +2,7 @@
 <h1>Hi There! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saraf-tejas/)](https://www.linkedin.com/in/saraf-tejas/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)]()
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://tejas-portfolio-io.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-saraftejas12@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saraftejas12@gmail.com)](mailto:saraftejas12@gmail.com)
 
 
